@@ -51,3 +51,4 @@ def ziyaretciler():
 if __name__ == "__main__":
     # Uygulamayı 0.0.0.0 (herkese açık) adresinde ve 5001 portunda çalıştır
     app.run(host="0.0.0.0", port=5001)
+
